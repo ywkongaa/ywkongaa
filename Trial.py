@@ -1,8 +1,3 @@
+import cvxpy as cp
 
-# coding: utf-8
-
-# In[ ]:
-
-
-import 
 
